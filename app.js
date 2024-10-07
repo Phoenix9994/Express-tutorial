@@ -49,6 +49,8 @@ Install Environment: (express, mongoose, dotenv)
     npm install express mongoose dotenv
     npm install --sav-dev nodemon - Automatically Restart the server on changes
 
+//Retry directory stuff prompto
 
+Node_modules and .gitignore - remind myself what green means and get it to successfuly to work to hide environment and node_modules in .gitignore
 
 */
