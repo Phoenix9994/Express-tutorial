@@ -53,7 +53,6 @@ Install Environment: (express, mongoose, dotenv)
 
 echo $null >> .gitignore
 
-
 Node_modules and .gitignore - remind myself what green means and get it to successfuly to work to hide environment and node_modules in .gitignore
 
 */
